@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Alexa Demo" lan="LAN_PLUGIN_ALEXA_DEMO_NAME" version="1.0" date="2016-11-02" compatibility="2.0" installRequired="true">
+	<author name="Lóna Lore" url="https://github.com/lonalore/alexa_demo"/>
+	<summary lan="LAN_PLUGIN_ALEXA_DEMO_SUMMARY">Demonstrates an integration to Amazon Echo.</summary>
+	<description lan="LAN_PLUGIN_ALEXA_DEMO_DESCRIPTION">Demonstrates an integration to Amazon Echo.</description>
+	<category>tools</category>
+	<keywords>
+		<word>alexa</word>
+		<word>api</word>
+		<word>demo</word>
+	</keywords>
+	<copyright>GNU/GPL</copyright>
+	<dependencies>
+		<plugin name='alexa' min_version='1.0' />
+	</dependencies>
+</e107Plugin>

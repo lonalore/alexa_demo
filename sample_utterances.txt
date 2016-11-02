@@ -1,0 +1,2 @@
+HelloPlugin hello plugin from {City}
+HelloPlugin say hi to plugin from {City}
